@@ -13,9 +13,9 @@ print(">LIBRARIES IMPORTED!\n")
 # CONFIGURATION
 # ===================================
 
-USERNAME = "normansvault"
-PASSWORD = "Suiciniv4921860@zerokaranoinstagram"
-TARGET_DIRECTORY = r"C:\Users\Norman Whittlecliff\Pictures\Phone Storage\[POSTING]"  # Change to your folder
+USERNAME = "your_username"      # Change it to your Instagram username
+PASSWORD = "your_password"      # Change it to your Instagram password
+TARGET_DIRECTORY = r"C:\Users\path\to\your\folder"  # Change to your folder
 
 IMAGE_EXTENSIONS = (".jpg", ".jpeg", ".png", ".webp")
 VIDEO_EXTENSIONS = (".mp4", ".mov", ".avi")
@@ -271,6 +271,7 @@ if __name__ == "__main__":
 main()
 
 input("\n\nScript Finished. Press Enter to exit program...")
+
 
 
 
