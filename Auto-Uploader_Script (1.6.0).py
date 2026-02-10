@@ -268,9 +268,13 @@ if __name__ == "__main__":
         print(f"\n\n❌ MAJOR ERROR:\n{e}\n")
 """
 
+# I decided to just play main() outside a try function so I can see the error that made the code stop working. 
+# When i twas related to the used library, the exception text would be something like "Something went wrong."
+# Playing it like this gives me information that can use to track the source of the problem.
 main()
 
 input("\n\nScript Finished. Press Enter to exit program...")
+
 
 
 
