@@ -16,6 +16,7 @@ A Python script that automatically uploads images and videos from a directory (i
 - **Date of Creation**: October 29, 2025
 - **Language**: Python
 - **Change Log**: [CHANGELOG.md](https://github.com/normanwhittlecliff/251029-Instagram-Auto-Uploader-Script/blob/main/CHANGELOG.md)
+- **Tags**: script; automation; instagram;
 
 ## 🚀 Features
 
