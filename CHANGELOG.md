@@ -7,7 +7,7 @@ and this project follows Semantic Versioning.
 
 ---
 
-## v1.6.0 - 2026-02-03
+## 2026-02-03 - v1.6.0
 
 ### Fixed
 - Fixed Instagram login failure caused by repeated password authentication.
@@ -35,9 +35,10 @@ def login_instagram():
 
 ---
 
-## v1.0.0 - 2025-12-10
+## 2025-12-10 - v1.0.0
 
 ### Added
 - Initial release.
 - Image posts and video reels support.
+
 
