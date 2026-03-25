@@ -1,3 +1,6 @@
+<!-- COMMENT SECTION
+
+-->
 
 # Instagram Auto-Uploader Script
 
